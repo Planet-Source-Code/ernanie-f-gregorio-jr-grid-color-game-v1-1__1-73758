@@ -1,0 +1,13 @@
+[History]
+1=#P0#=mb	#P1#=RandomizeGrid	#P2#=GridNumberGame/frmMain/RandomizeGrid	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20110222103003	#P7#=0	#P8#=22	.
+2=#P0#=mb	#P1#=PuzzleFinished	#P2#=GridNumberGame/frmMain/PuzzleFinished	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20110222102921	#P7#=0	#P8#=10	.
+3=#P0#=mb	#P1#=lblMain_Click	#P2#=GridNumberGame/frmMain/lblMain_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20110222102829	#P7#=0	#P8#=20	.
+4=#P0#=mb	#P1#=Form_Load	#P2#=GridNumberGame/frmMain/Form_Load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20110222102456	#P7#=0	#P8#=16	.
+5=#P0#=mb	#P1#=cmdReset_Click	#P2#=GridNumberGame/frmMain/cmdReset_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20110222102254	#P7#=0	#P8#=2	.
+6=#P0#=mb	#P1#=RotateValue	#P2#=GridNumberGame/frmMain/RotateValue	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20110222101536	#P7#=0	#P8#=-1	.
+7=#P0#=mb	#P1#=Form_Load	#P2#=GridNumberGame/frmMainMenu/Form_Load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20110222100036	#P7#=0	#P8#=3	.
+8=#P0#=mb	#P1#=timGameProgress_Timer	#P2#=GridNumberGame/frmMain/timGameProgress_Timer	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20110222095603	#P7#=0	#P8#=0	.
+9=#P0#=mb	#P1#=cmdBackTo_Click	#P2#=GridNumberGame/frmMain/cmdBackTo_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20110222094758	#P7#=0	#P8#=0	.
+10=#P0#=mb	#P1#=cmdHelp_Click	#P2#=GridNumberGame/frmMain/cmdHelp_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20110222094106	#P7#=0	#P8#=2	.
+11=#P0#=mb	#P1#=cmdStart_Click	#P2#=GridNumberGame/frmMainMenu/cmdStart_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20110222090212	#P7#=0	#P8#=0	.
+12=#P0#=mb	#P1#=cmdCheck_Click	#P2#=GridNumberGame/frmMain/cmdCheck_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20110216095116	#P7#=0	#P8#=1	.
